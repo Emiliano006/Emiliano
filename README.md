@@ -1,6 +1,6 @@
 #  <h1 align="center">Hi 👋, I'm Emiliano</h1>
 
-<h3 align="center">A Full-Stack Web developer from Argentina.</h3>h3>
+<h3 align="center">A Full-Stack Web developer from Argentina.</h3>
 
 - 👨‍💻 Always interested in learning new languages.
 
